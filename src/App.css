@@ -277,3 +277,21 @@
   .email-popup li.valid {
     color: green;
 }
+
+.profile-fields {
+  text-align: left;
+  padding: 10px;
+}
+
+.profile-field {
+  margin-bottom: 8px;
+}
+
+.profile-field label {
+  font-weight: bold;
+  margin-right: 5px;
+}
+
+.profile-field span {
+  color: #333;
+}
